@@ -28,9 +28,15 @@ Open the repository link "   ", click on the leave site URL on the right hand si
 
 ## DEMOS & SCREEN-SHOTS FOR THE WEB-PAGE.
 
-![Screenshot (37)](https://github.com/Petermbugu/Anitas-s-Kitchen-Web-Page/assets/125895000/911a8cec-5292-47d4-8a30-17ecc9522062)
+![Screenshot (44)](https://github.com/Petermbugu/Anitas-s-Kitchen-Web-Page/assets/125895000/f456be63-5d3d-48ce-a295-35b70e439e0a)
+![Screenshot (45)](https://github.com/Petermbugu/Anitas-s-Kitchen-Web-Page/assets/125895000/bceaeace-979f-43cd-801e-40fd50100cd2)
+![Screenshot (46)](https://github.com/Petermbugu/Anitas-s-Kitchen-Web-Page/assets/125895000/04a9288c-e8c3-4ea8-aa74-a4fccab1e7a8)
 
+![Screenshot (47)](https://github.com/Petermbugu/Anitas-s-Kitchen-Web-Page/assets/125895000/2509618b-7af4-4d20-a2fd-64687f34503b)
+![Screenshot (48)](https://github.com/Petermbugu/Anitas-s-Kitchen-Web-Page/assets/125895000/149fc5e6-2950-4350-be54-ba68fc5da2ad)
 
+![Screenshot (49)](https://github.com/Petermbugu/Anitas-s-Kitchen-Web-Page/assets/125895000/409034ac-a4bc-4620-82f9-18c4dee7ce48)
+![Screenshot (51)](https://github.com/Petermbugu/Anitas-s-Kitchen-Web-Page/assets/125895000/7b70f79b-4fbd-4919-b161-a65bc5ecd051)
 
 
 ## AUTHOR INFO
