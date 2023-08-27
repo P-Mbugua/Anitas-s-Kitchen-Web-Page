@@ -28,7 +28,9 @@ Open the repository link "   ", click on the leave site URL on the right hand si
 
 ## DEMOS & SCREEN-SHOTS FOR THE WEB-PAGE.
 
-![Screenshot (51)](https://github.com/Petermbugu/Anitas-s-Kitchen-Web-Page/assets/125895000/290196dd-37c8-466e-801a-c4aa101e525b)
+![Screenshot (37)](https://github.com/Petermbugu/Anitas-s-Kitchen-Web-Page/assets/125895000/911a8cec-5292-47d4-8a30-17ecc9522062)
+
+
 
 
 ## AUTHOR INFO
